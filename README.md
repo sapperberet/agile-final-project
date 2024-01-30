@@ -1,2 +1,2 @@
 # agile-final-project
-The IBM DevOps Specialization Agile Honor Project
+The IBM DevOps Specialization Agile Honor Project.
